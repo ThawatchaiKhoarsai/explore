@@ -6,7 +6,7 @@ github_url: https://github.com/bitcoin/bitcoin
 logo: bitcoin.png
 released: January 3, 2009
 short_description: Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.
-topic: bitcoin
+topic: bitcoinu
 url: https://bitcoin.org/en/
 wikipedia_url: https://en.wikipedia.org/wiki/Bitcoin
 ---
